@@ -28,6 +28,17 @@
 - **Report Centre**: Generates reports on user activity, circle performance, payment data, and more.
 
 ## Integrations and Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-3.7.7-blue?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.0.0-blue?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-10.4.0-yellow?logo=firebase&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6.1.0-blue?logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-2.2.0-blue?logo=flutter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-16.0.0-E434AA?logo=graphql&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt-7.2.0-blue?logo=flutter&logoColor=white)
+![Dartz](https://img.shields.io/badge/Dartz-0.10.0-blue?logo=flutter&logoColor=white)
+
+
 - **Frontend**: Flutter (Dart)
 - **Backend**: Java Spring Boot
 - **Database**: MySQL
