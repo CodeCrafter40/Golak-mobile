@@ -29,6 +29,8 @@
 
 ## Integrations and Tech Stack
 
+## Tech Stack Badges
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.7.7-blue?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.0.0-blue?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-10.4.0-yellow?logo=firebase&logoColor=white)
@@ -37,6 +39,8 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-16.0.0-E434AA?logo=graphql&logoColor=white)
 ![GetIt](https://img.shields.io/badge/GetIt-7.2.0-blue?logo=flutter&logoColor=white)
 ![Dartz](https://img.shields.io/badge/Dartz-0.10.0-blue?logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.4-green?logo=spring&logoColor=white)
 
 
 - **Frontend**: Flutter (Dart)
